@@ -1,0 +1,18 @@
+.odd {
+    background-color: #e49090;  
+    /* background-color: rgb(234, 148, 148); this is the rgb method of assigning the color value  */
+    /* background-color: rgba(217, 142, 142, 1); using rgba function with the alpha parameter to determine the opacity of the color  */
+    /* background-color: hsl(0, 40%, 69%);  */
+    font-family: Verdana , "DejaVu Sans", sans-serif;
+} 
+#no2 {
+   color: #0000ff; 
+    font-size: 36px;
+}
+.differ {
+    font-size: 24px;
+}
+#no4 {
+    background-color: rgb(108, 240, 108);
+    font-weight:bold;
+}
